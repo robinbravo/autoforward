@@ -57,6 +57,11 @@ with a _bot_ or an _user_ account.
     [ocr](https://github.com/aahnik/tgcf/wiki/You-can-do-OCR)
     and do whatever else you need !
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/robinbravo/autoforward)
+
+
+
+
 5. Detailed [wiki](https://github.com/aahnik/tgcf/wiki) +
 Video tutorial.
     > You can also [get help](#getting-help) from the community.
